@@ -39,7 +39,6 @@ from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
 ```
 ## OUTPUT
-![alt text](<../Screenshot 2025-09-15 103203.png>)
-
+![alt text](<Screenshot 2025-09-15 103203.png>)
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
